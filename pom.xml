@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>001-spring-framework-demo-helloworld-xml</module>
+        <module>002-spring-framework-demo-helloworld-java</module>
     </modules>
 
     <properties>
