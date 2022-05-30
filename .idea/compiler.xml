@@ -7,7 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="101-springboot-demo-hello" />
+        <module name="005-spring-framework-demo-aop-anno" />
+        <module name="004-spring-framework-demo-aop-xml" />
         <module name="001-spring-framework-demo-helloworld-xml" />
+        <module name="003-spring-framework-demo-helloworld-anno" />
         <module name="002-spring-framework-demo-helloworld-java" />
       </profile>
     </annotationProcessing>
