@@ -14,6 +14,7 @@
         <module>003-spring-framework-demo-helloworld-anno</module>
         <module>004-spring-framework-demo-aop-xml</module>
         <module>005-spring-framework-demo-aop-anno</module>
+        <module>011-spring-framework-demo-springmvc</module>
     </modules>
 
     <properties>

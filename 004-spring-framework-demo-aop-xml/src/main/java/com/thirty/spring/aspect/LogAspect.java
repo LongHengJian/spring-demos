@@ -12,6 +12,12 @@ import org.aspectj.lang.ProceedingJoinPoint;
  */
 public class LogAspect {
 
+    /**
+     * 环绕通知
+     * @param proceedingJoinPoint 连接点
+     * @return Object
+     * @throws Throwable 抛出异常
+     */
     public Object doAround(ProceedingJoinPoint proceedingJoinPoint) throws Throwable {
 
         System.out.println("-----------------------");
